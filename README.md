@@ -1,24 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohit Sapat
-===================================================================================================================================
+# 👋 Hello, I'm Mohit Sapat ![Wave GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Student on a Coding Adventure
------------------------------
+## About Me
+I'm Mohit Sapat, a passionate student on a coding adventure. Embracing the world of programming, I dive into each day as a new opportunity to learn, grow, and unravel the mysteries of coding.
 
-Hey, I'm Mohit Sapat, and I'm more than just a student—I'm on a thrilling coding adventure. The world of programming beckons, and I'm diving in headfirst. As a student, each day is a new opportunity to learn, grow, and unravel the mysteries of coding. Join me on this exciting journey as I balance the academic rigors of student life with my insatiable appetite for coding challenges. GitHub is where I bring my ideas to life, a canvas where my passion for coding takes shape. Come along as I share my perspective, aspirations, and the joy of discovery in the vast realm of technology. Together, let's explore the endless possibilities that coding holds.
+## Location
+🌍 Based in Maharashtra, India
 
-* 🌍  I'm based in Maharashtra
-* ✉️  You can contact me at [sapatmohit18@gamil.com](mailto:sapatmohit18@gamil.com)
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Realtime Projects
+## Contact
+✉️ Email me at [sapatmohit18@gmail.com](mailto:sapatmohit18@gmail.com)
 
-### Skills
+## Learning
+🧠 Currently learning Flutter
 
+## Collaboration
+🤝 Open to collaborating on Realtime Projects
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## Skills
+I work with a variety of technologies and languages, including:
+- ![C++ Icon](https://img.icons8.com/color/36/000000/c-plus-plus-logo.png) C/C++
+- ![Dart Icon](https://img.icons8.com/color/36/000000/dart.png) Dart
+- ![Git Icon](https://img.icons8.com/color/36/000000/git.png) Git
+- ![Java Icon](https://img.icons8.com/color/36/000000/java-coffee-cup-logo.png) Java
+- ![JavaScript Icon](https://img.icons8.com/color/36/000000/javascript.png) JavaScript
+- ![PHP Icon](https://img.icons8.com/color/36/000000/php.png) PHP
+- ![Python Icon](https://img.icons8.com/color/36/000000/python.png) Python
+- ![R Icon](https://img.icons8.com/color/36/000000/r.png) R
+- ![HTML5 Icon](https://img.icons8.com/color/36/000000/html-5.png) HTML5
+- ![CSS3 Icon](https://img.icons8.com/color/36/000000/css3.png) CSS3
+- ![Tailwind CSS Icon](https://img.icons8.com/color/36/000000/tailwind-css.png) Tailwind CSS
+- ![Bootstrap Icon](https://img.icons8.com/color/36/000000/bootstrap.png) Bootstrap
+- ![MySQL Icon](https://img.icons8.com/color/36/000000/mysql.png) MySQL
+- ![Firebase Icon](https://img.icons8.com/color/36/000000/firebase.png) Firebase
+- ![Flutter Icon](https://img.icons8.com/color/36/000000/flutter.png) Flutter
+- ![Figma Icon](https://img.icons8.com/color/36/000000/figma.png) Figma
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/sapatmohit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sapatmohit18" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sapatmohit18" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Socials
+Connect with me on:
+- [![GitHub Icon](https://img.icons8.com/ios-glyphs/36/000000/github.png)](https://www.github.com/sapatmohit)
+- [![Instagram Icon](https://img.icons8.com/ios-filled/36/000000/instagram-new.png)](http://www.instagram.com/sapatmohit18) (Note: The Instagram icon might not display correctly due to a technical issue.)
+- [![LinkedIn Icon](https://img.icons8.com/ios-filled/36/000000/linkedin.png)](https://www.linkedin.com/in/sapatmohit18)
