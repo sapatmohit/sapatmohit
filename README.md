@@ -1,22 +1,23 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" />
+</div>
+  
 <h1 align="left">Hey there 👋</h1>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div style="flex: 1; padding-right: 20px;">
+  <h3>👩‍💻 About Me</h3>
+  <p>
+    I'm Mohit Sapat from Pune, Maharashtra <br><br>
+    - 🔭 I’m a Computer Engineering student passionate about Web Development, with hands-on experience in projects using MERN stack, AI/ML, and IoT.<br>
+    - 📚 I’m currently learning advanced Machine Learning, Computer Vision, and Full-Stack Development.<br>
+    - ⚡ In my free time, I love playing cricket (Runners-up HM. M.K. Karandak 2020), exploring new technologies, and contributing to open-source projects.
+  </p>
 </div>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Mohit Sapat from Pune, Maharashtra<br><br>- 🔭 I’m a Computer Engineering student passionate about Web Development, with hands-on experience in projects using MERN stack, AI/ML, and IoT.<br>- 📚 I’m currently learning advanced Machine Learning, Computer Vision, and Full-Stack Development.<br>- ⚡ In my free time, I love playing cricket (Runners-up HM. M.K. Karandak 2020), exploring new technologies, and contributing to open-source projects.</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
