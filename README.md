@@ -1,7 +1,5 @@
 <h1 align="left">Hey there 👋</h1>
 
-###
-
 <br clear="both">
 
 <div style="flex: 1; padding-right: 20px;">
