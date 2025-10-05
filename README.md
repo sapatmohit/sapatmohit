@@ -133,7 +133,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sapatmohit/sapatmohit/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sapatmohit/sapatmohit/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sapatmohit/sapatmohit/output/snake-light.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sapatmohit/sapatmohit/output/snake-light.svg"
+  />
+</picture>
 
 ###
 
