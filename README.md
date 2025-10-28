@@ -116,6 +116,15 @@
 
 ###
 
+<h3 align="left">🏆   My Achievements:</h3>
+
+###
+
+[![An image of @sapatmohit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sapatmohit)](https://holopin.io/@sapatmohit)
+
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
