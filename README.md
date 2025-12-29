@@ -127,7 +127,7 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sapatmohit&theme=tokyonight-duo&hide_border=true&border_radius=5&output=png)](https://git.io/streak-stats)
+![GitHub Streak](assets/streak.png)
 
 ###
 
