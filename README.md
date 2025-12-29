@@ -127,7 +127,7 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sapatmohit&theme=cobalt&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sapatmohit&theme=tokyonight-duo&hide_border=true&border_radius=5&output=png)](https://git.io/streak-stats)
 
 ###
 
