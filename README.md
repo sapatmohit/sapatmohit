@@ -125,6 +125,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sapatmohit&theme=cobalt&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
 ###
 
 <div align="left">
