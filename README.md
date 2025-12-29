@@ -120,15 +120,6 @@
 
 [![An image of @sapatmohit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sapatmohit)](https://holopin.io/@sapatmohit)
 
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-![GitHub Streak](https://raw.githubusercontent.com/sapatmohit/sapatmohit/output/dist/streak.png)
-
 ###
 
 <h3 align="left">🤝 My Contributions:</h3>
