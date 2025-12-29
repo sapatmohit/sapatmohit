@@ -127,7 +127,7 @@
 
 ###
 
-![GitHub Streak](assets/streak.png)
+![GitHub Streak](https://raw.githubusercontent.com/sapatmohit/sapatmohit/output/dist/streak.png)
 
 ###
 
