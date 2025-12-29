@@ -17,7 +17,7 @@ jobs:
         run: |
           mkdir -p assets
           curl -L \
-            "https://streak-stats.demolab.com/?user=sapatmohit&theme=tokyonight-duo&hide_border=true&border_radius=5&output=png" \
+            "https://streak-stats.demolab.com/?user=sapatmohit&theme=tokyonight-duo&hide_border=true&border_radius=5&output=png&github_token=${{ secrets.GITHUB_TOKEN }}" \
             -o assets/streak.png
 
       - name: Commit and push if changed
