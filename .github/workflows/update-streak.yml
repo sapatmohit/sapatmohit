@@ -1,0 +1,30 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+  workflow_dispatch:     # allows manual run
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download streak image (PNG)
+        run: |
+          mkdir -p assets
+          curl -L \
+            "https://streak-stats.demolab.com/?user=sapatmohit&theme=tokyonight-duo&hide_border=true&border_radius=5&output=png" \
+            -o assets/streak.png
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add assets/streak.png
+          git diff --cached --quiet || git commit -m "chore: update GitHub streak stats"
+          git push
