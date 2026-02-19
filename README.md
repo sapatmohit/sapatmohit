@@ -122,6 +122,14 @@
 
 ###
 
+<h3 align="left">🔥 My Sats:</h3>
+
+###
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sapatmohit&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+###
+
 <h3 align="left">🤝 My Contributions:</h3>
 
 ###
