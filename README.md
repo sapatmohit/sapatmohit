@@ -27,9 +27,9 @@
 name        : Mohit Sapat
 location    : Pune, Maharashtra, India 🇮🇳
 education   : Computer Engineering Student
-focus       : Full-Stack Web (MERN) · AI/ML · Computer Vision · IoT
+focus       : Full-Stack Development · AI/ML · Computer Vision · IoT
 learning    : Advanced ML · LLMs · Full-Stack Architecture
-achievement : Cricket Runners-up — HM. M.K. Karandak 2020 🏏
+achievement : 2x Hackathon Winner . Cricket Runners-up — HM. M.K. Karandak 2020 🏏
 open_source : Actively contributing
 fun_fact    : I build things that bridge the physical and digital world
 ```
