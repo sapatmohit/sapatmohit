@@ -103,11 +103,9 @@ fun_fact    : I build things that bridge the physical and digital world
 
 <div align="center">
 
-<a href="https://github.com/sapatmohit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sapatmohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapatmohit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=github-readme-stats" />
-</a>
+<img
+height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=sapatmohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </div>
 
