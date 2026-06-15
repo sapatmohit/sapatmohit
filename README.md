@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Hey%20there%2C%20I'm%20Mohit%20Sapat%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%2FML%20Explorer%20%7C%20IoT%20Tinkerer&descAlignY=58&descColor=c7d2fe&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Hey%20there%2C%20I'm%20Mohit%20Sapat%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=58&descColor=c7d2fe&animation=fadeIn" />
 
 <!-- Typing SVG tagline -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Building+full-stack+products+%F0%9F%9A%80;Exploring+AI+%26+Computer+Vision+%F0%9F%A4%96;Tinkering+with+IoT+%26+Hardware+%F0%9F%94%A7;Open+source+contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Building+full-stack+products+%F0%9F%9A%80;Exploring+AI+%26+Computer+Vision+%F0%9F%A4%96;Open+source+contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
