@@ -104,16 +104,8 @@ fun_fact    : I build things that bridge the physical and digital world
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=sapatmohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  alt="Mohit's GitHub Stats"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapatmohit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Mohit's Top Languages"
-/>
+height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=sapatmohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </div>
 
@@ -123,12 +115,7 @@ fun_fact    : I build things that bridge the physical and digital world
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com/?user=sapatmohit&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"
-    alt="Mohit's GitHub Streak"
-  />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sapatmohit&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
