@@ -1,0 +1,50 @@
+name: Carve name into the wall
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: carve            # one chisel, one hand
+  cancel-in-progress: false
+
+jobs:
+  carve:
+    if: startsWith(github.event.issue.title, 'carve:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Carve
+        id: carve
+        env:
+          # untrusted input stays in env vars, never interpolated into the shell
+          RAW_TITLE: ${{ github.event.issue.title }}
+          VISITOR: ${{ github.event.issue.user.login }}
+        run: python3 scripts/carve.py
+
+      - name: Commit
+        env:
+          VISITOR: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name  "sys78"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rooms/wall.md
+          git diff --staged --quiet && echo "nothing new" && exit 0
+          git commit -m "carve: visitor $VISITOR"
+          git push
+
+      - name: Close the issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUM: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh issue close "$NUM" --repo "$REPO" --comment \
+          "Carved. The bulkhead is soft aluminium and your name is on it now: https://github.com/$REPO/blob/main/rooms/wall.md
+
+          The station does not keep records of recovery mode, but it keeps this."
