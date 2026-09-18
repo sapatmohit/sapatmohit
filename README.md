@@ -187,22 +187,6 @@ fun_fact    : I build things that bridge the physical and digital world
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sapatmohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-&nbsp;
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sapatmohit&theme=tokyonight&hide_border=true)
-
-<br/>
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sapatmohit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-</div>
-
----
-
 ## Featured Projects
 
 <table>
@@ -445,6 +429,22 @@ Pairs classical machine learning with NLP over clinical text to flag several can
 </td>
 </tr>
 </table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sapatmohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sapatmohit&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sapatmohit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+
+</div>
 
 ---
 
