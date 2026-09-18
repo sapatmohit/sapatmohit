@@ -105,7 +105,7 @@ fun_fact    : I build things that bridge the physical and digital world
 
 <img
 height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=sapatmohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=sapatmohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </div>
 
@@ -115,7 +115,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=sapatmohit&s
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sapatmohit&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sapatmohit&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
