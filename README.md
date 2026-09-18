@@ -1,20 +1,26 @@
 <div align="center">
 
-<h1>Mohit Sapat</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="" />
 
-<p><b>Founder @Babelize</b> &nbsp;•&nbsp; <b>Founding Engineer @ Tap In LLC</b> &nbsp;•&nbsp; Full-Stack &amp; AI/ML Engineer</p>
+# Mohit Sapat
+
+<p>
+<b>Founder @Babelize</b> &nbsp;•&nbsp; <b>Founding Engineer @ Tap In LLC</b><br/>
+Full-Stack &amp; AI/ML Engineer &nbsp;•&nbsp; Pune, India
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&height=46&lines=Building+full-stack+products+end+to+end;Shipping+AI%2FML+%26+computer+vision+systems;Computer+Engineering+%40+Vishwakarma+University;2x+Hackathon+Winner)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://mohitsapat.me"><img src="https://img.shields.io/badge/Portfolio-7AA2F7.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+<a href="https://babelize.co"><img src="https://img.shields.io/badge/Babelize-Founder-7AA2F7.svg?style=for-the-badge&labelColor=1A1B27&logo=data:image/svg%2Bxml;base64,PHN2ZyB3aWR0aD0iMTk0IiBoZWlnaHQ9IjIwNCIgdmlld0JveD0iMCAwIDE5NCAyMDQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxwYXRoIGQ9Ik03MiAxNjUuNTA3TDEwLjg2OTEgMTk4LjMxNkM4LjIwNTMgMTk5LjcyNCA1LjAwMDEgMTk3Ljc5MyA1IDE5NC43OFY5LjAxMTk4QzUuMDAwMSA1Ljk5ODk4IDguMjA1MyA0LjA2Nzk4IDEwLjg2OTEgNS40NzU4OEwxODYuNjA4IDk4LjM1OThDMTg5LjQ1IDk5Ljg2MTggMTg5LjQ1IDEwMy45MyAxODYuNjA4IDEwNS40MzJMMTM3LjUgMTMxLjUwNyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxMCIvPiA8cGF0aCBkPSJNNzYuMTYgODIuMTI2OEw4NC4yNCA4NC41MjY4QzgwLjg4IDk0LjE3OTggNzYuNTYgMTAyLjU1NCA3MS4yOCAxMDkuNjQ3QzY2IDExNi42ODcgNTkuNjggMTIyLjYzNCA1Mi4zMiAxMjcuNDg3QzQ1LjE4MjggMTMyLjE5MyAzNi45NjcgMTM2LjA3MiAyNy42NzM1IDEzOS4xMjRDMjcuMTgwMSAxMzkuMjg1IDI2LjY0NzQgMTM5LjAzOCAyNi40MDQ5IDEzOC41NzhDMjYuMTY3OSAxMzguMTMgMjUuODczMSAxMzcuNjMyIDI1LjUyIDEzNy4wODdDMjQuOTg3IDEzNi4xOCAyNC40IDEzNS4yNDcgMjMuNzYgMTM0LjI4N0MyMy41MDk2IDEzMy45MzIgMjMuMjY3MyAxMzMuNjAyIDIzLjAzMzMgMTMzLjI5NkMyMi41ODA3IDEzMi43MDUgMjIuODQ1NiAxMzEuODExIDIzLjU1OTkgMTMxLjYwMUMzMi4yOTk2IDEyOS4wNDEgMzkuOTkyNyAxMjUuNjk2IDQ2LjY0IDEyMS41NjdDNTMuNjggMTE3LjE5NCA1OS42MjcgMTExLjc4IDY0LjQ4IDEwNS4zMjdDNjkuMzg3IDk4LjgxOTggNzMuMjggOTEuMDg2OCA3Ni4xNiA4Mi4xMjY4Wk00My41Mjc4IDg5LjQyMzVDNDQuMDU1NyA4OS4xOTczIDQ0LjY2NDMgODkuNDYxNyA0NC44NzEgODkuOTk3NUM0Ni43OTcgOTQuOTg4NiA0OS4xNTI4IDk4Ljc2NzYgNTMuNzYgMTA0LjkyN0M1OC42NjcgMTExLjQ4NyA2NC43MiAxMTcuMDYgNzEuOTIgMTIxLjY0N0M3Ny4yNDUgMTI0Ljk5OSA4MS44NDggMTI2Ljg1IDgzLjg4NDMgMTI3LjU4NkM4NC40NjU5IDEyNy43OTcgODQuNzQ4OSAxMjguNDcyIDg0LjQ3MzQgMTI5LjAyNUw4MS40MDU2IDEzNS4xOTJDODEuMTc1NyAxMzUuNjU0IDgwLjYzNTggMTM1Ljg2NSA4MC4xNTkxIDEzNS42NjdDNzcuOTIzNSAxMzQuNzM5IDcxLjYwMzUgMTMxLjk2MyA2NS43NiAxMjcuOTY3QzU4LjUwNyAxMjIuOTU0IDUyLjM0NyAxMTYuODQ3IDQ3LjI4IDEwOS42NDdDNDIuMzk5NyAxMDIuNzEyIDQxLjA5NDYgMTAwLjY1NyAzNy44Nzc5IDkyLjkyMDNDMzcuNjY4IDkyLjQxNTUgMzcuOTAzNiA5MS44MzM5IDM4LjQwNjEgOTEuNjE4NUw0My41Mjc4IDg5LjQyMzVaTTIzLjIgNzkuMjA2OEMyMy4yIDc4LjY1NDUgMjMuNjQ3NyA3OC4yMDY4IDI0LjIgNzguMjA2OEg5NC45MkM5NS40NzIzIDc4LjIwNjggOTUuOTIgNzguNjU0NSA5NS45MiA3OS4yMDY4Vjg0LjU2NjhDOTUuOTIgODUuMTE5MSA5NS40NzIzIDg1LjU2NjggOTQuOTIgODUuNTY2OEgyNC4yQzIzLjY0NzcgODUuNTY2OCAyMy4yIDg1LjExOTEgMjMuMiA4NC41NjY4Vjc5LjIwNjhaTTU1LjQ0IDY2LjAwNjhDNTUuNDQgNjUuNDU0NiA1NS44ODc3IDY1LjAwNjggNTYuNDQgNjUuMDA2OEg2Mi4yQzYyLjc1MjMgNjUuMDA2OCA2My4yIDY1LjQ1NDYgNjMuMiA2Ni4wMDY4VjgyLjY4NjhINTUuNDRWNjYuMDA2OFoiIGZpbGw9IndoaXRlIi8+IDxwYXRoIGQ9Ik04OC41MzQ4IDE2My4zNzNDODguMzg0MyAxNjMuNzU1IDg4LjAxNTIgMTY0LjAwNyA4Ny42MDQyIDE2NC4wMDdINzguNDg5NEM3Ny43Nzg2IDE2NC4wMDcgNzcuMjk0OCAxNjMuMjg2IDc3LjU2MzggMTYyLjYyOEwxMDAuODMzIDEwNS43MzVDMTAxLjc1NSAxMDMuNDggMTAzLjk1IDEwMi4wMDcgMTA2LjM4NiAxMDIuMDA3SDExMC42MTNDMTEzLjA0OSAxMDIuMDA3IDExNS4yNDQgMTAzLjQ4IDExNi4xNjYgMTA1LjczNUwxMzkuNDM2IDE2Mi42MjhDMTM5LjcwNSAxNjMuMjg2IDEzOS4yMjEgMTY0LjAwNyAxMzguNTExIDE2NC4wMDdIMTI5LjM5NkMxMjguOTg1IDE2NC4wMDcgMTI4LjYxNiAxNjMuNzU1IDEyOC40NjUgMTYzLjM3MkwxMDguODkzIDExMy41MjVDMTA4LjgzMiAxMTMuMzcgMTA4LjY4MyAxMTMuMjY4IDEwOC41MTcgMTEzLjI2OEMxMDguMzUxIDExMy4yNjggMTA4LjIwMSAxMTMuMzcgMTA4LjE0MSAxMTMuNTI0TDg4LjUzNDggMTYzLjM3M1pNOTAuMTc3MiAxMzkuNzI4SDEyNi43ODhWMTQ3LjU5OEg5MC4xNzcyVjEzOS43MjhaIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=" alt="Babelize" /></a>
 <a href="https://tapinbjj.com"><img src="https://img.shields.io/badge/Tap%20In-Founding%20Engineer-9ECE6A.svg?style=for-the-badge&labelColor=1A1B27" alt="Tap In" /></a>
 <a href="https://www.linkedin.com/in/mohitsapat18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/mohitsapat18"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
 <a href="https://medium.com/@sapatmohit18"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" /></a>
 <a href="https://mohitsapat.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719.svg?style=for-the-badge&logo=Substack&logoColor=white" alt="Substack" /></a>
-<a href="https://asiainc500.com/magazine/an-unknown-crusader/"><img src="https://img.shields.io/badge/Featured-Asia%20Inc%20500-E0AF68.svg?style=for-the-badge&labelColor=1A1B27" alt="Featured in Asia Inc 500" /></a>
+<a href="https://orcid.org/0009-0008-6057-6067"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID" /></a>
+<a href="https://asiainc500.com/magazine/an-unknown-crusader/"><img src="https://img.shields.io/badge/Published%20in-Asia%20Inc.%20500-E0AF68.svg?style=for-the-badge&labelColor=1A1B27" alt="Published in Asia Inc. 500" /></a>
 <a href="https://github.com/sapatmohit?tab=followers"><img src="https://img.shields.io/github/followers/sapatmohit?style=for-the-badge&logo=GitHub&logoColor=white&label=Followers&color=181717" alt="Followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=sapatmohit&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -24,30 +30,38 @@
 
 ## About Me
 
-Computer Engineering student in Pune who spends most of the week shipping production software. I run **[Babelize](https://babelize.co)** — a dev-tool and services company that helps businesses break into international markets by scraping their existing content, cleaning it up and localizing it properly. I'm also founding engineer at **[Tap In](https://tapinbjj.com)**, a BJJ app for athletes and gym owners. AI/ML and IoT work runs in the background — the kind that wires a model, an API and a physical device into one system that actually holds up.
+I'm a Computer Engineering student in Pune who spends most of the week shipping production software.
+
+I run **[Babelize](https://babelize.co)**, an AI localization platform for React, Next.js, Vue, Django and static sites. It scans a codebase for hardcoded strings, translates them with context, and opens a pull request with clean JSON locale files. Fifty plus languages, reachable over CLI, API, SDK or MCP. The whole thing started because I was tired of syncing translation keys by hand.
+
+I'm also founding engineer at **[Tap In](https://tapinbjj.com)**, a Brazilian Jiu-Jitsu app that pulls academies, open mats, class schedules and gym management into one place.
+
+The rest of my time goes to AI/ML and IoT work: the kind that wires a model, an API and a physical device into one system that holds up.
 
 ```yaml
 name        : Mohit Sapat
-role        : Founder @Babelize (dev tools + localization services)
+role        : Founder @Babelize (AI localization platform)
               Founding Engineer @ Tap In LLC (BJJ app for athletes & gyms)
-education   : B.Tech Computer Engineering — Vishwakarma University, Pune
+education   : B.Tech Computer Engineering, Vishwakarma University, Pune
 location    : Pune, Maharashtra, India
-focus       : Full-Stack Development · AI/ML · Computer Vision · IoT
-learning    : LLMs & RAG · Distributed Systems · Full-Stack Architecture
-achievements: Featured in Asia Inc 500 magazine · 2x Hackathon Winner
-              Cricket Runners-up — HM. M.K. Karandak 2020
-open_source : 10 PRs merged — billingsdk (Dodo Payments) - DXLander - OSS Wiki
-website     : https://mohitsapat.me
-writing     : medium.com/@sapatmohit18 - mohitsapat.substack.com
+focus       : Full-Stack Development, AI/ML, Computer Vision, IoT
+learning    : LLMs and RAG, Distributed Systems, Full-Stack Architecture
+achievements: Published in Asia Inc. 500 magazine, May-June 2026
+              2x Hackathon Winner
+              Cricket Runners-up, HM. M.K. Karandak 2020
+open_source : 10 PRs merged into billingsdk, DXLander and OSS Wiki
+writing     : medium.com/@sapatmohit18, mohitsapat.substack.com
+orcid       : 0009-0008-6057-6067
+research    : 4 papers, IEEE ESCI 2025, ICSIAIML 2025, TANZ Vol 11
 fun_fact    : I build things that bridge the physical and digital world
 ```
 
 ### What I'm working on
 
-- **Babelize** — dev tools and services that take a business international: scrape existing content, fix it, localize it
-- **Tap In** — founding engineer on a BJJ app for athletes and gym owners
-- **Babelize Elements** — open-source localization UI components for React & Tailwind
-- **Open source** — 10 PRs merged into Dodo Payments' billingsdk, DXLander and OSS Wiki
+- **Babelize**: AI localization that scans your repo, translates in context and ships the change as a pull request
+- **Tap In**: founding engineer on a BJJ app for athletes, academies and coaches
+- **Babelize Elements**: open-source localization UI components for React and Tailwind
+- **Open source**: 10 PRs merged into Dodo Payments' billingsdk, DXLander and OSS Wiki
 
 ---
 
@@ -195,9 +209,9 @@ fun_fact    : I build things that bridge the physical and digital world
 <tr>
 <td width="50%" valign="top">
 
-### [Babelize Elements](https://elements.babelize.co)
+### <img src="assets/elements-mark.svg" width="16" /> [Babelize Elements](https://elements.babelize.co)
 
-Open-source localization UI kit — copy-paste language switchers, locale pickers and translation widgets.
+Copy-paste language switchers, locale pickers and RTL layouts. Works with next-intl, i18next, react-intl, Lingui and FormatJS. MIT licensed.
 
 <a href="https://github.com/babelize/babelize-elements"><img src="https://img.shields.io/github/stars/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/babelize/babelize-elements/forks"><img src="https://img.shields.io/github/forks/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&labelColor=1A1B27&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&labelColor=1A1B27&logo=Tailwind-CSS&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=1A1B27&logo=TypeScript&logoColor=white" />
 
@@ -206,9 +220,9 @@ Open-source localization UI kit — copy-paste language switchers, locale picker
 </td>
 <td width="50%" valign="top">
 
-### [Babelize](https://babelize.co)
+### <img src="assets/babelize-mark.svg" width="16" /> [Babelize](https://babelize.co)
 
-Dev tools and services that take a business international — scrape existing content, clean it, localize it. Drops into Next.js, React and plain HTML.
+AI localization platform. Scans your codebase for hardcoded strings, translates them in context and opens a pull request with clean JSON locale files. 50+ languages over CLI, API, SDK or MCP.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=1A1B27&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=1A1B27&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/i18n-7AA2F7?style=flat-square&labelColor=1A1B27" />
 
@@ -221,7 +235,7 @@ Dev tools and services that take a business international — scrape existing co
 
 ### [Smart Farming AI Agent](https://github.com/sapatmohit/smart-farming-ai-agent)
 
-RAG advisory agent turning live agronomic data into actionable farming guidance.
+RAG advisory agent that turns live agronomic data into farming guidance a grower can act on.
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&labelColor=1A1B27&logo=Rust&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=1A1B27&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/IBM%20Granite-054ADA?style=flat-square&labelColor=1A1B27" />
 
@@ -232,7 +246,7 @@ RAG advisory agent turning live agronomic data into actionable farming guidance.
 
 ### [Wilo Pump Automation](https://github.com/sapatmohit/Wilo-Water-Pump-Automation)
 
-Industrial water-pump monitoring and control dashboard, wired to live hardware.
+Monitoring and control dashboard for industrial water pumps, wired to live hardware.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=1A1B27&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/IoT-00878F?style=flat-square&labelColor=1A1B27&logo=Arduino&logoColor=white" />
 
@@ -245,7 +259,7 @@ Industrial water-pump monitoring and control dashboard, wired to live hardware.
 
 ### [Aparigraha Foundation](https://aparigrahafoundation.com)
 
-Production website for a non-profit — content, donations and outreach in one build.
+Production website for a non-profit, covering content, donations and outreach.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=1A1B27&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=1A1B27&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&labelColor=1A1B27&logo=Tailwind-CSS&logoColor=white" />
 
@@ -254,13 +268,13 @@ Production website for a non-profit — content, donations and outreach in one b
 </td>
 <td width="50%" valign="top">
 
-### [Portfolio](https://mohitsapat.me)
+### [More on GitHub](https://github.com/sapatmohit?tab=repositories)
 
-Everything I've shipped, written and broken — in one place.
+Hackathon builds, coursework that outgrew the assignment, and a few experiments that are still cooking.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=1A1B27&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&labelColor=1A1B27&logo=Tailwind-CSS&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsapatmohit&query=%24.public_repos&label=public%20repos&color=7AA2F7&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" />
 
-<a href="https://mohitsapat.me">Live</a>
+<a href="https://github.com/sapatmohit?tab=repositories">Browse</a>
 
 </td>
 </tr>
@@ -270,7 +284,7 @@ Everything I've shipped, written and broken — in one place.
 
 ## Open Source Contributions
 
-**10 PRs merged** across billing infrastructure, deploy tooling and docs — plus a component library I maintain in the open.
+**10 PRs merged** across billing infrastructure and docs, plus a component library I maintain in the open.
 
 <table>
 <tr>
@@ -280,9 +294,9 @@ Everything I've shipped, written and broken — in one place.
 
 Modern billing and monetization UI component library.
 
-<a href="https://github.com/dodopayments/billingsdk"><img src="https://img.shields.io/github/stars/dodopayments/billingsdk?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dodopayments/billingsdk/forks"><img src="https://img.shields.io/github/forks/dodopayments/billingsdk?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dodopayments/billingsdk/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/merged-5%20PRs-9ECE6A?style=flat-square&labelColor=1A1B27" /></a>
+<a href="https://github.com/dodopayments/billingsdk"><img src="https://img.shields.io/github/stars/dodopayments/billingsdk?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dodopayments/billingsdk/forks"><img src="https://img.shields.io/github/forks/dodopayments/billingsdk?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dodopayments/billingsdk/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Adodopayments%2Fbillingsdk&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
-**Contributor** — shipped Billing Summary Card, Billing Settings, Upcoming Charges and Detailed Usage Table
+**Contributor.** Shipped the Billing Summary Card, Billing Settings, Upcoming Charges and Detailed Usage Table components.
 
 </td>
 <td width="50%" valign="top">
@@ -291,22 +305,22 @@ Modern billing and monetization UI component library.
 
 AI-powered zero-configuration deployment platform.
 
-<a href="https://github.com/dxlander/dxlander"><img src="https://img.shields.io/github/stars/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/forks"><img src="https://img.shields.io/github/forks/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/merged-4%20PRs-9ECE6A?style=flat-square&labelColor=1A1B27" /></a>
+<a href="https://github.com/dxlander/dxlander"><img src="https://img.shields.io/github/stars/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/forks"><img src="https://img.shields.io/github/forks/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Adxlander%2Fdxlander&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
-**Contributor** — added Groq and OpenRouter provider support, per-config build deletion, custom encryption keys
+**Contributor.** Added Groq and OpenRouter provider support, per-config build deletion and custom encryption keys.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Babelize Elements](https://github.com/babelize/babelize-elements)
+### <img src="assets/elements-mark.svg" width="16" /> [Babelize Elements](https://github.com/babelize/babelize-elements)
 
-Open-source localization UI components for React and Tailwind.
+Localization UI components for React. Language switchers, locale pickers and RTL layouts, MIT licensed.
 
-<a href="https://github.com/babelize/babelize-elements"><img src="https://img.shields.io/github/stars/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/babelize/babelize-elements/forks"><img src="https://img.shields.io/github/forks/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <img src="https://img.shields.io/badge/role-maintainer-BB9AF7?style=flat-square&labelColor=1A1B27" />
+<a href="https://github.com/babelize/babelize-elements"><img src="https://img.shields.io/github/stars/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/babelize/babelize-elements/forks"><img src="https://img.shields.io/github/forks/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/babelize/babelize-elements/commits?author=sapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Asapatmohit%2Brepo%3Ababelize%2Fbabelize-elements&query=%24.total_count&label=commits&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
-**Maintainer** — built and maintain the library, docs site and release flow
+**Maintainer.** I built the library, the docs site and the release flow, and I review and merge what comes in from contributors.
 
 </td>
 <td width="50%" valign="top">
@@ -315,9 +329,9 @@ Open-source localization UI components for React and Tailwind.
 
 Open-source wiki teaching people how to contribute to open source.
 
-<a href="https://github.com/Grenish/oss-wiki"><img src="https://img.shields.io/github/stars/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/forks"><img src="https://img.shields.io/github/forks/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/merged-1%20PRs-9ECE6A?style=flat-square&labelColor=1A1B27" /></a>
+<a href="https://github.com/Grenish/oss-wiki"><img src="https://img.shields.io/github/stars/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/forks"><img src="https://img.shields.io/github/forks/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AGrenish%2Foss-wiki&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
-**Contributor** — built the contributor tracker for documentation pages
+**Contributor.** Built the contributor tracker for documentation pages.
 
 </td>
 </tr>
@@ -336,20 +350,101 @@ I write about building products solo, burnout, and the parts of engineering nobo
 
 </div>
 
-> **Featured in [Asia Inc 500](https://asiainc500.com/magazine/an-unknown-crusader/)** — my post *The Day I Stopped Building Things That Expire* was picked up for the magazine's "An Unknown Crusader" feature.
+> **Published in [Asia Inc. 500](https://asiainc500.com/magazine/an-unknown-crusader/), May-June 2026.** My essay *From Building Things That Expire to Building Things That Last* ran on pages 26 to 27 of the print issue, on how Babelize started and why I stopped building things with an expiry date.
 
 ### Latest posts
 
 - [Developer Life: The Good, The Bad, and The Burnout](https://medium.com/@sapatmohit18/developer-life-the-good-the-bad-and-the-burnout-d16a0f0b871c) · *Jul 2026*
-- [From Building Things That Expire to Building Things That Last](https://mohitsapat.substack.com/p/from-building-things-that-expire) · *May 2026*
+- [From Building Things That Expire to Building Things That Last](https://mohitsapat.substack.com/p/from-building-things-that-expire) · *May 2026* · [published in Asia Inc. 500](https://asiainc500.com/magazine/an-unknown-crusader/)
 - [The Pressure to Do Something Big](https://medium.com/@sapatmohit18/the-pressure-to-do-something-big-379ea670f60b) · *Apr 2026*
 - [I'm Not Confident. I'm Just Continuing Anyway.](https://medium.com/@sapatmohit18/im-not-confident-i-m-just-continuing-anyway-2e74faebabdd) · *Apr 2026*
 - [When Free Time Doesn't Feel Like a Break Anymore](https://medium.com/@sapatmohit18/when-free-time-doesnt-feel-like-a-break-anymore-dfe449057973) · *Apr 2026*
 - [The Week Babelize Almost Broke](https://medium.com/@sapatmohit18/the-week-babelize-almost-broke-3e7bb6be33f7) · *Mar 2026*
 - [The First Time My Code Actually Mattered](https://medium.com/@sapatmohit18/the-first-time-my-code-actually-mattered-093a1626e0c9) · *Mar 2026*
-- [The Day I Stopped Building Things That Expire](https://medium.com/@sapatmohit18/the-day-i-stopped-building-things-that-expire-53b3bcfe30af) · *Mar 2026* · [featured in Asia Inc 500](https://asiainc500.com/magazine/an-unknown-crusader/)
+- [The Day I Stopped Building Things That Expire](https://medium.com/@sapatmohit18/the-day-i-stopped-building-things-that-expire-53b3bcfe30af) · *Mar 2026*
 
 <div align="right"><sub><a href="https://medium.com/@sapatmohit18">All posts on Medium →</a></sub></div>
+
+---
+
+## Research
+
+Four papers on applied machine learning: computer vision, environmental modeling and medical imaging.
+
+<div align="center">
+
+<a href="https://orcid.org/0009-0008-6057-6067"><img src="https://img.shields.io/badge/ORCID-0009--0008--6057--6067-A6CE39?style=for-the-badge&labelColor=1A1B27&logo=ORCID&logoColor=white" alt="ORCID" /></a>
+<a href="https://ieeexplore.ieee.org/author/608052344357259"><img src="https://img.shields.io/badge/IEEE%20Xplore-Author%20Profile-00629B?style=for-the-badge&labelColor=1A1B27&logo=IEEE&logoColor=white" alt="IEEE Xplore" /></a>
+<a href="https://www.researchgate.net/profile/Mohit-Sapat"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&labelColor=1A1B27&logo=ResearchGate&logoColor=white" alt="ResearchGate" /></a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Comprehensive Comparative Analysis of Food Classification Using YOLOv8n, VGG19, and InceptionV3](https://doi.org/10.1109/ESCI63694.2025.10988355)
+
+*IEEE ESCI 2025 · pages 1-7*
+
+**Mohit Sapat**, Sarthak Wadegaonkar, Sarthak Patankar, Pratibha Mahajan
+
+Benchmarked three deep learning models on the Indian Food Classification Dataset and Food-11 across accuracy, precision, recall and F1. InceptionV3 took the accuracy crown, while YOLOv8n held up best in real time, which makes it the one you actually ship to mobile or embedded hardware.
+
+<img src="https://img.shields.io/badge/IEEE-ESCI%202025-00629B?style=flat-square&labelColor=1A1B27&logo=IEEE&logoColor=white" /> <a href="https://doi.org/10.1109/ESCI63694.2025.10988355"><img src="https://img.shields.io/badge/DOI-10.1109%2FESCI63694.2025.10988355-BB9AF7?style=flat-square&labelColor=1A1B27" /></a>
+
+<a href="https://ieeexplore.ieee.org/document/10988355">IEEE Xplore</a>
+
+</td>
+<td width="50%" valign="top">
+
+### [AI-Driven Water Quality Index Prediction Framework for River Monitoring in India](https://doi.org/10.2991/978-94-6463-948-3_12)
+
+*ICSIAIML 2025, Atlantis Press · pages 182-194*
+
+Maya Kurulekar, **Mohit Sapat**, Richa Panchgaur
+
+Compared Linear Regression, Random Forest and XGBoost for predicting the Water Quality Index of Indian rivers. XGBoost came out ahead at R2 0.89, RMSE 5.1, MAE 3.7, and SHAP analysis surfaced BOD, COD and DO as the parameters that move the prediction most. Built for evidence-based water governance under SDG 6.
+
+<img src="https://img.shields.io/badge/Atlantis%20Press-ICSIAIML%202025-7AA2F7?style=flat-square&labelColor=1A1B27" /> <a href="https://doi.org/10.2991/978-94-6463-948-3_12"><img src="https://img.shields.io/badge/DOI-10.2991%2F978--94--6463--948--3__12-BB9AF7?style=flat-square&labelColor=1A1B27" /></a>
+
+<a href="https://www.atlantis-press.com/proceedings/icsiaiml-25/126021231">Publisher</a> · <a href="https://www.atlantis-press.com/article/126021231.pdf">PDF</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Applying Theoretical Approach Towards Deep Learning Based Feature Fusion to Multimodal Medical Imaging Data for Improved Bone Cancer Detection](https://tanzresearch.com/volume-11-issue-4-2025/)
+
+*TANZ Research Journal, Vol 11 Issue 4, 2025 · pages 650-656*
+
+Purva Thakare, **Mohit Sapat**
+
+Fuses features across imaging modalities so a bone cancer detector reads more than one view of the same patient, rather than treating each scan type on its own.
+
+<img src="https://img.shields.io/badge/TANZ-Vol%2011%20Issue%204-E0AF68?style=flat-square&labelColor=1A1B27" /> <img src="https://img.shields.io/badge/DOI-10.6084%2Fdoi.25.11.4.TANZ220089-BB9AF7?style=flat-square&labelColor=1A1B27" />
+
+<a href="https://drive.google.com/file/d/16r5AggGhn3NLG84PEODNAPLpWG9j3QTG/view">PDF</a> · <a href="https://tanzresearch.com/volume-11-issue-4-2025/">Issue</a>
+
+</td>
+<td width="50%" valign="top">
+
+### [Early Detection of Multiple Cancer Types Using Hybrid Machine Learning and Natural Language Processing](https://tanzresearch.com/volume-11-issue-4-2025/)
+
+*TANZ Research Journal, Vol 11 Issue 4, 2025 · pages 313-320*
+
+Purva Thakare, **Mohit Sapat**
+
+Pairs classical machine learning with NLP over clinical text to flag several cancer types earlier than single-signal screening manages on its own.
+
+<img src="https://img.shields.io/badge/TANZ-Vol%2011%20Issue%204-E0AF68?style=flat-square&labelColor=1A1B27" /> <img src="https://img.shields.io/badge/DOI-10.6084%2Fdoi.25.11.4.TANZ220066-BB9AF7?style=flat-square&labelColor=1A1B27" />
+
+<a href="https://drive.google.com/file/d/1GXMAQeBw9UzQjvuqi_hPkOPaSB_dNGca/view">PDF</a> · <a href="https://tanzresearch.com/volume-11-issue-4-2025/">Issue</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -391,7 +486,6 @@ I write about building products solo, burnout, and the parts of engineering nobo
 
 <div align="center">
 
-<a href="https://mohitsapat.me"><img src="https://img.shields.io/badge/Portfolio-7AA2F7.svg?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohitsapat18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logoColor=white" /></a>
 <a href="https://x.com/mohitsapat18"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://medium.com/@sapatmohit18"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
@@ -405,6 +499,6 @@ I write about building products solo, burnout, and the parts of engineering nobo
 
 <br/>
 
-*"There's never a right time — right now is the only right time."*
+*"There's never a right time. Right now is the only right time."*
 
 </div>
