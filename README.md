@@ -15,7 +15,7 @@ Full-Stack &amp; AI/ML Engineer &nbsp;•&nbsp; Pune, India
 
 <a href="https://www.linkedin.com/in/mohitsapat18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/mohitsapat18"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-<a href="https://www.instagram.com/sapatmohit18/"><img src="https://img.shields.io/badge/instagram-c13584.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://www.instagram.com/sapatmohit18/"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://medium.com/@sapatmohit18"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" /></a>
 <a href="https://mohitsapat.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719.svg?style=for-the-badge&logo=Substack&logoColor=white" alt="Substack" /></a>
 <a href="https://orcid.org/0009-0008-6057-6067"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID" /></a>
