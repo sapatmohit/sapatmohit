@@ -490,10 +490,6 @@ Pairs classical machine learning with NLP over clinical text to flag several can
 <a href="https://www.instagram.com/sapatmohit18/"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://discord.com/users/848834699023482920"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" /></a>
 
-<br/><br/>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <br/>
 
 *"There's never a right time. Right now is the only right time."*
