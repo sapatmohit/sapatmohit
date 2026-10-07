@@ -49,7 +49,7 @@ achievements: Published in Asia Inc. 500 magazine, May-June 2026
 open_source : 10 PRs merged into billingsdk, DXLander and OSS Wiki
 writing     : medium.com/@sapatmohit18, mohitsapat.substack.com
 orcid       : 0009-0008-6057-6067
-research    : 4 papers, IEEE ESCI 2025, ICSIAIML 2025, TANZ Vol 11
+research    : 5 papers, IEEE IGNITE 2026, IEEE ESCI 2025, ICSIAIML 2025, TANZ Vol 11
 fun_fact    : I build things that bridge the physical and digital world
 ```
 
@@ -350,7 +350,7 @@ I write about building products solo, burnout, and the parts of engineering nobo
 
 ## Research
 
-Four papers on applied machine learning: computer vision, environmental modeling and medical imaging.
+Five papers across applied machine learning and mathematics: computer vision, environmental modeling, medical imaging and Fourier analysis.
 
 <div align="center">
 
@@ -362,6 +362,21 @@ Four papers on applied machine learning: computer vision, environmental modeling
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### [A Comprehensive Study of Fourier Series: Theory, Applications, and Computational Analysis](https://doi.org/10.1109/IGNITE69592.2026.11706063)
+
+*IEEE IGNITE 2026, Pune · pages 1-6*
+
+Aditya Bhope, Jameel Ansari, Mrunmai Ranade, Sandhya Tapadia, **Mohit Sapat**
+
+Works through Fourier series from first principles: coefficients, convergence and orthogonality, with full derivations. Then puts the theory to work in computational simulations, with a focus on signal processing and pattern generation.
+
+<img src="https://img.shields.io/badge/IEEE-IGNITE%202026-00629B?style=flat-square&labelColor=1A1B27&logo=IEEE&logoColor=white" /> <a href="https://doi.org/10.1109/IGNITE69592.2026.11706063"><img src="https://img.shields.io/badge/DOI-10.1109%2FIGNITE69592.2026.11706063-BB9AF7?style=flat-square&labelColor=1A1B27" /></a>
+
+<a href="https://ieeexplore.ieee.org/document/11706063">IEEE Xplore</a>
+
+</td>
 <td width="50%" valign="top">
 
 ### [Comprehensive Comparative Analysis of Food Classification Using YOLOv8n, VGG19, and InceptionV3](https://doi.org/10.1109/ESCI63694.2025.10988355)
@@ -377,6 +392,8 @@ Benchmarked three deep learning models on the Indian Food Classification Dataset
 <a href="https://ieeexplore.ieee.org/document/10988355">IEEE Xplore</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [AI-Driven Water Quality Index Prediction Framework for River Monitoring in India](https://doi.org/10.2991/978-94-6463-948-3_12)
@@ -392,8 +409,6 @@ Compared Linear Regression, Random Forest and XGBoost for predicting the Water Q
 <a href="https://www.atlantis-press.com/proceedings/icsiaiml-25/126021231">Publisher</a> · <a href="https://www.atlantis-press.com/article/126021231.pdf">PDF</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Applying Theoretical Approach Towards Deep Learning Based Feature Fusion to Multimodal Medical Imaging Data for Improved Bone Cancer Detection](https://tanzresearch.com/volume-11-issue-4-2025/)
@@ -409,6 +424,8 @@ Fuses features across imaging modalities so a bone cancer detector reads more th
 <a href="https://drive.google.com/file/d/16r5AggGhn3NLG84PEODNAPLpWG9j3QTG/view">PDF</a> · <a href="https://tanzresearch.com/volume-11-issue-4-2025/">Issue</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Early Detection of Multiple Cancer Types Using Hybrid Machine Learning and Natural Language Processing](https://tanzresearch.com/volume-11-issue-4-2025/)
