@@ -441,6 +441,21 @@ Pairs classical machine learning with NLP over clinical text to flag several can
 <a href="https://drive.google.com/file/d/1GXMAQeBw9UzQjvuqi_hPkOPaSB_dNGca/view">PDF</a> · <a href="https://tanzresearch.com/volume-11-issue-4-2025/">Issue</a>
 
 </td>
+<td width="50%" valign="top">
+
+### More coming soon™
+
+*Reviewer 2 · pages ∞*
+
+**Mohit Sapat** & a very patient inbox
+
+A few more papers are currently stuck in peer review, quietly aging like fine wine (or milk, still undecided). Status: *"Under Review"* since roughly the last ice age. Will update this card once Reviewer 2 wakes up.
+
+<img src="https://img.shields.io/badge/Status-Stuck%20in%20Review-F7768E?style=flat-square&labelColor=1A1B27" /> <img src="https://img.shields.io/badge/ETA-%C2%AF%5C__(%E3%83%84)__%2F%C2%AF-E0AF68?style=flat-square&labelColor=1A1B27" />
+
+<a href="https://orcid.org/0009-0008-6057-6067">Watch this space</a>
+
+</td>
 </tr>
 </table>
 
