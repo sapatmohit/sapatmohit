@@ -271,7 +271,7 @@ Hackathon builds, coursework that outgrew the assignment, and a few experiments 
 <tr>
 <td width="50%" valign="top">
 
-### [AnythingMCP](https://github.com/HelpCode-ai/anythingmcp)
+### [AnythingMCP](https://github.com/HelpCode-ai/anythingmcp/pulls?q=is%3Apr+author%3Asapatmohit)
 
 MCP gateway that turns any REST, GraphQL, SOAP or SQL API into tools for AI agents.
 
@@ -282,7 +282,7 @@ MCP gateway that turns any REST, GraphQL, SOAP or SQL API into tools for AI agen
 </td>
 <td width="50%" valign="top">
 
-### [Dodo Payments · billingsdk](https://github.com/dodopayments/billingsdk)
+### [Dodo Payments · billingsdk](https://github.com/dodopayments/billingsdk/pulls?q=is%3Apr+author%3Asapatmohit)
 
 Modern billing and monetization UI component library.
 
@@ -295,7 +295,7 @@ Modern billing and monetization UI component library.
 <tr>
 <td width="50%" valign="top">
 
-### [DXLander](https://github.com/dxlander/dxlander)
+### [DXLander](https://github.com/dxlander/dxlander/pulls?q=is%3Apr+author%3Asapatmohit)
 
 AI-powered zero-configuration deployment platform.
 
@@ -306,7 +306,7 @@ AI-powered zero-configuration deployment platform.
 </td>
 <td width="50%" valign="top">
 
-### [OSS Wiki](https://github.com/Grenish/oss-wiki)
+### [OSS Wiki](https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+author%3Asapatmohit)
 
 Open-source wiki teaching people how to contribute to open source.
 
@@ -319,7 +319,7 @@ Open-source wiki teaching people how to contribute to open source.
 <tr>
 <td width="50%" valign="top">
 
-### <img src="assets/elements-mark.svg" width="16" /> [Babelize Elements](https://github.com/babelize/babelize-elements)
+### <img src="assets/elements-mark.svg" width="16" /> [Babelize Elements](https://github.com/babelize/babelize-elements/pulls?q=is%3Apr+author%3Asapatmohit)
 
 Localization UI components for React. Language switchers, locale pickers and RTL layouts, MIT licensed.
 
