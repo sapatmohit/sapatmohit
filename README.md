@@ -271,22 +271,22 @@ Hackathon builds, coursework that outgrew the assignment, and a few experiments 
 <tr>
 <td width="50%" valign="top">
 
-### [AnythingMCP](https://github.com/HelpCode-ai/anythingmcp/pulls?q=is%3Apr+author%3Asapatmohit)
+### [AnythingMCP](https://github.com/HelpCode-ai/anythingmcp/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
 
 MCP gateway that turns any REST, GraphQL, SOAP or SQL API into tools for AI agents.
 
-<a href="https://github.com/HelpCode-ai/anythingmcp"><img src="https://img.shields.io/github/stars/HelpCode-ai/anythingmcp?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/HelpCode-ai/anythingmcp/forks"><img src="https://img.shields.io/github/forks/HelpCode-ai/anythingmcp?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/HelpCode-ai/anythingmcp/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AHelpCode-ai%2Fanythingmcp&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+<a href="https://github.com/HelpCode-ai/anythingmcp"><img src="https://img.shields.io/github/stars/HelpCode-ai/anythingmcp?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/HelpCode-ai/anythingmcp/forks"><img src="https://img.shields.io/github/forks/HelpCode-ai/anythingmcp?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/HelpCode-ai/anythingmcp/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AHelpCode-ai%2Fanythingmcp&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
 **Contributor.** Laid the i18n foundation with next-intl, then translated the sidebar and sign-in flow and added a language switcher.
 
 </td>
 <td width="50%" valign="top">
 
-### [Dodo Payments · billingsdk](https://github.com/dodopayments/billingsdk/pulls?q=is%3Apr+author%3Asapatmohit)
+### [Dodo Payments · billingsdk](https://github.com/dodopayments/billingsdk/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
 
 Modern billing and monetization UI component library.
 
-<a href="https://github.com/dodopayments/billingsdk"><img src="https://img.shields.io/github/stars/dodopayments/billingsdk?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dodopayments/billingsdk/forks"><img src="https://img.shields.io/github/forks/dodopayments/billingsdk?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dodopayments/billingsdk/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Adodopayments%2Fbillingsdk&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+<a href="https://github.com/dodopayments/billingsdk"><img src="https://img.shields.io/github/stars/dodopayments/billingsdk?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dodopayments/billingsdk/forks"><img src="https://img.shields.io/github/forks/dodopayments/billingsdk?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dodopayments/billingsdk/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Adodopayments%2Fbillingsdk&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
 **Contributor.** Shipped the Billing Summary Card, Billing Settings, Upcoming Charges and Detailed Usage Table components.
 
@@ -295,22 +295,22 @@ Modern billing and monetization UI component library.
 <tr>
 <td width="50%" valign="top">
 
-### [DXLander](https://github.com/dxlander/dxlander/pulls?q=is%3Apr+author%3Asapatmohit)
+### [DXLander](https://github.com/dxlander/dxlander/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
 
 AI-powered zero-configuration deployment platform.
 
-<a href="https://github.com/dxlander/dxlander"><img src="https://img.shields.io/github/stars/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/forks"><img src="https://img.shields.io/github/forks/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Adxlander%2Fdxlander&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+<a href="https://github.com/dxlander/dxlander"><img src="https://img.shields.io/github/stars/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/forks"><img src="https://img.shields.io/github/forks/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Adxlander%2Fdxlander&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
 **Contributor.** Added Groq and OpenRouter provider support, per-config build deletion and custom encryption keys.
 
 </td>
 <td width="50%" valign="top">
 
-### [OSS Wiki](https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+author%3Asapatmohit)
+### [OSS Wiki](https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
 
 Open-source wiki teaching people how to contribute to open source.
 
-<a href="https://github.com/Grenish/oss-wiki"><img src="https://img.shields.io/github/stars/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/forks"><img src="https://img.shields.io/github/forks/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AGrenish%2Foss-wiki&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+<a href="https://github.com/Grenish/oss-wiki"><img src="https://img.shields.io/github/stars/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/forks"><img src="https://img.shields.io/github/forks/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AGrenish%2Foss-wiki&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
 **Contributor.** Built the contributor tracker for documentation pages.
 
@@ -319,7 +319,7 @@ Open-source wiki teaching people how to contribute to open source.
 <tr>
 <td width="50%" valign="top">
 
-### <img src="assets/elements-mark.svg" width="16" /> [Babelize Elements](https://github.com/babelize/babelize-elements/pulls?q=is%3Apr+author%3Asapatmohit)
+### <img src="assets/elements-mark.svg" width="16" /> [Babelize Elements](https://github.com/babelize/babelize-elements/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
 
 Localization UI components for React. Language switchers, locale pickers and RTL layouts, MIT licensed.
 
