@@ -46,7 +46,7 @@ learning    : LLMs and RAG, Distributed Systems, Full-Stack Architecture
 achievements: Published in Asia Inc. 500 magazine, May-June 2026
               2x Hackathon Winner
               Cricket Runners-up, HM. M.K. Karandak 2020
-open_source : 10 PRs merged into billingsdk, DXLander and OSS Wiki
+open_source : 12 PRs merged into AnythingMCP, billingsdk, DXLander and OSS Wiki
 writing     : medium.com/@sapatmohit18, mohitsapat.substack.com
 orcid       : 0009-0008-6057-6067
 research    : 5 papers, IEEE IGNITE 2026, IEEE ESCI 2025, ICSIAIML 2025, TANZ Vol 11
@@ -58,7 +58,7 @@ fun_fact    : I build things that bridge the physical and digital world
 - **Babelize**: AI localization that scans your repo, translates in context and ships the change as a pull request
 - **Tap In**: founding engineer on a BJJ app for athletes, academies and coaches
 - **Babelize Elements**: open-source localization UI components for React and Tailwind
-- **Open source**: 10 PRs merged into Dodo Payments' billingsdk, DXLander and OSS Wiki
+- **Open source**: 12 PRs merged into AnythingMCP, Dodo Payments' billingsdk, DXLander and OSS Wiki
 
 ---
 
@@ -265,10 +265,21 @@ Hackathon builds, coursework that outgrew the assignment, and a few experiments 
 
 ## Open Source Contributions
 
-**10 PRs merged** across billing infrastructure and docs, plus a component library I maintain in the open.
+**12 PRs merged** across MCP tooling, billing infrastructure and docs, plus a component library I maintain in the open.
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### [AnythingMCP](https://github.com/HelpCode-ai/anythingmcp)
+
+MCP gateway that turns any REST, GraphQL, SOAP or SQL API into tools for AI agents.
+
+<a href="https://github.com/HelpCode-ai/anythingmcp"><img src="https://img.shields.io/github/stars/HelpCode-ai/anythingmcp?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/HelpCode-ai/anythingmcp/forks"><img src="https://img.shields.io/github/forks/HelpCode-ai/anythingmcp?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/HelpCode-ai/anythingmcp/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AHelpCode-ai%2Fanythingmcp&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+
+**Contributor.** Laid the i18n foundation with next-intl, then translated the sidebar and sign-in flow and added a language switcher.
+
+</td>
 <td width="50%" valign="top">
 
 ### [Dodo Payments · billingsdk](https://github.com/dodopayments/billingsdk)
@@ -280,6 +291,8 @@ Modern billing and monetization UI component library.
 **Contributor.** Shipped the Billing Summary Card, Billing Settings, Upcoming Charges and Detailed Usage Table components.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [DXLander](https://github.com/dxlander/dxlander)
@@ -289,6 +302,17 @@ AI-powered zero-configuration deployment platform.
 <a href="https://github.com/dxlander/dxlander"><img src="https://img.shields.io/github/stars/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/forks"><img src="https://img.shields.io/github/forks/dxlander/dxlander?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/dxlander/dxlander/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Adxlander%2Fdxlander&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
 **Contributor.** Added Groq and OpenRouter provider support, per-config build deletion and custom encryption keys.
+
+</td>
+<td width="50%" valign="top">
+
+### [OSS Wiki](https://github.com/Grenish/oss-wiki)
+
+Open-source wiki teaching people how to contribute to open source.
+
+<a href="https://github.com/Grenish/oss-wiki"><img src="https://img.shields.io/github/stars/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/forks"><img src="https://img.shields.io/github/forks/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AGrenish%2Foss-wiki&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+
+**Contributor.** Built the contributor tracker for documentation pages.
 
 </td>
 </tr>
@@ -306,13 +330,13 @@ Localization UI components for React. Language switchers, locale pickers and RTL
 </td>
 <td width="50%" valign="top">
 
-### [OSS Wiki](https://github.com/Grenish/oss-wiki)
+### Featured in curated lists
 
-Open-source wiki teaching people how to contribute to open source.
+Babelize Elements is listed in community-curated directories:
 
-<a href="https://github.com/Grenish/oss-wiki"><img src="https://img.shields.io/github/stars/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/forks"><img src="https://img.shields.io/github/forks/Grenish/oss-wiki?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AGrenish%2Foss-wiki&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+<a href="https://github.com/birobirobiro/awesome-shadcn-ui"><img src="https://img.shields.io/github/stars/birobirobiro/awesome-shadcn-ui?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white&label=awesome-shadcn-ui" /></a> <a href="https://github.com/oh-jon-paul/awesome-i18n"><img src="https://img.shields.io/github/stars/oh-jon-paul/awesome-i18n?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white&label=awesome-i18n" /></a>
 
-**Contributor.** Built the contributor tracker for documentation pages.
+**Listed** under Registries in awesome-shadcn-ui and in awesome-i18n.
 
 </td>
 </tr>
