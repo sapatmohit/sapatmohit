@@ -265,8 +265,6 @@ Hackathon builds, coursework that outgrew the assignment, and a few experiments 
 
 ## Open Source Contributions
 
-<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit+repo%3AHelpCode-ai%2Fanythingmcp+repo%3Agymcoach-app%2Fgymcoach+repo%3Adodopayments%2Fbillingsdk+repo%3Adxlander%2Fdxlander+repo%3AGrenish%2Foss-wiki"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AHelpCode-ai%2Fanythingmcp%2Brepo%3Agymcoach-app%2Fgymcoach%2Brepo%3Adodopayments%2Fbillingsdk%2Brepo%3Adxlander%2Fdxlander%2Brepo%3AGrenish%2Foss-wiki&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a> across MCP tooling, fitness, billing infrastructure and docs, plus a component library I maintain in the open.
-
 <table>
 <tr>
 <td width="50%" valign="top">
