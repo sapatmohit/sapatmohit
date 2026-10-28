@@ -58,7 +58,7 @@ fun_fact    : I build things that bridge the physical and digital world
 - **Babelize**: AI localization that scans your repo, translates in context and ships the change as a pull request
 - **Tap In**: founding engineer on a BJJ app for athletes, academies and coaches
 - **Babelize Elements**: open-source localization UI components for React and Tailwind
-- **Open source**: 12 PRs merged into AnythingMCP, Dodo Payments' billingsdk, DXLander and OSS Wiki
+- **Open source**: 20 PRs merged into AnythingMCP, GymCoach, Dodo Payments' billingsdk, DXLander and OSS Wiki
 
 ---
 
@@ -265,7 +265,7 @@ Hackathon builds, coursework that outgrew the assignment, and a few experiments 
 
 ## Open Source Contributions
 
-**12 PRs merged** across MCP tooling, billing infrastructure and docs, plus a component library I maintain in the open.
+**20 PRs merged** across MCP tooling, fitness, billing infrastructure and docs, plus a component library I maintain in the open.
 
 <table>
 <tr>
@@ -277,9 +277,22 @@ MCP gateway that turns any REST, GraphQL, SOAP or SQL API into tools for AI agen
 
 <a href="https://github.com/HelpCode-ai/anythingmcp"><img src="https://img.shields.io/github/stars/HelpCode-ai/anythingmcp?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/HelpCode-ai/anythingmcp/forks"><img src="https://img.shields.io/github/forks/HelpCode-ai/anythingmcp?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/HelpCode-ai/anythingmcp/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AHelpCode-ai%2Fanythingmcp&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
-**Contributor.** Laid the i18n foundation with next-intl, then translated the sidebar and sign-in flow and added a language switcher.
+**Contributor.** Laid the i18n foundation with next-intl and added a language switcher, then translated the admin UI into German and Italian area by area: sign-in and onboarding, audit log and analytics, MCP servers and the connector marketplace.
 
 </td>
+<td width="50%" valign="top">
+
+### [GymCoach](https://github.com/gymcoach-app/gymcoach/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
+
+Self-hosted workout tracker with an AI coach. An open-source alternative to Strong, Hevy and Fitbod.
+
+<a href="https://github.com/gymcoach-app/gymcoach"><img src="https://img.shields.io/github/stars/gymcoach-app/gymcoach?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/gymcoach-app/gymcoach/forks"><img src="https://img.shields.io/github/forks/gymcoach-app/gymcoach?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/gymcoach-app/gymcoach/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Agymcoach-app%2Fgymcoach&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+
+**Contributor.** Translated the app into Spanish, Portuguese and Italian, including the exercise catalog, and fixed decimal commas (2,5 kg) being split into two plates in the plate settings.
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Dodo Payments · billingsdk](https://github.com/dodopayments/billingsdk/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
@@ -291,8 +304,6 @@ Modern billing and monetization UI component library.
 **Contributor.** Shipped the Billing Summary Card, Billing Settings, Upcoming Charges and Detailed Usage Table components.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [DXLander](https://github.com/dxlander/dxlander/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
@@ -304,6 +315,8 @@ AI-powered zero-configuration deployment platform.
 **Contributor.** Added Groq and OpenRouter provider support, per-config build deletion and custom encryption keys.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [OSS Wiki](https://github.com/Grenish/oss-wiki/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
@@ -315,20 +328,20 @@ Open-source wiki teaching people how to contribute to open source.
 **Contributor.** Built the contributor tracker for documentation pages.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <img src="assets/elements-mark.svg" width="16" /> [Babelize Elements](https://github.com/babelize/babelize-elements/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
 
 Localization UI components for React. Language switchers, locale pickers and RTL layouts, MIT licensed.
 
-<a href="https://github.com/babelize/babelize-elements"><img src="https://img.shields.io/github/stars/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/babelize/babelize-elements/forks"><img src="https://img.shields.io/github/forks/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/babelize/babelize-elements/commits?author=sapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Asapatmohit%2Brepo%3Ababelize%2Fbabelize-elements&query=%24.total_count&label=commits&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+<a href="https://github.com/babelize/babelize-elements"><img src="https://img.shields.io/github/stars/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/babelize/babelize-elements/forks"><img src="https://img.shields.io/github/forks/babelize/babelize-elements?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/babelize/babelize-elements/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Ababelize%2Fbabelize-elements&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
 **Maintainer.** I built the library, the docs site and the release flow, and I review and merge what comes in from contributors.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### Featured in curated lists
 
