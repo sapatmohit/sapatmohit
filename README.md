@@ -58,7 +58,7 @@ fun_fact    : I build things that bridge the physical and digital world
 - **Babelize**: AI localization that scans your repo, translates in context and ships the change as a pull request
 - **Tap In**: founding engineer on a BJJ app for athletes, academies and coaches
 - **Babelize Elements**: open-source localization UI components for React and Tailwind
-- **Open source**: 20 PRs merged into AnythingMCP, GymCoach, Dodo Payments' billingsdk, DXLander and OSS Wiki
+- **Open source**: merged PRs in AnythingMCP, GymCoach, Dodo Payments' billingsdk, DXLander and OSS Wiki
 
 ---
 
@@ -265,7 +265,7 @@ Hackathon builds, coursework that outgrew the assignment, and a few experiments 
 
 ## Open Source Contributions
 
-**20 PRs merged** across MCP tooling, fitness, billing infrastructure and docs, plus a component library I maintain in the open.
+<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit+repo%3AHelpCode-ai%2Fanythingmcp+repo%3Agymcoach-app%2Fgymcoach+repo%3Adodopayments%2Fbillingsdk+repo%3Adxlander%2Fdxlander+repo%3AGrenish%2Foss-wiki"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3AHelpCode-ai%2Fanythingmcp%2Brepo%3Agymcoach-app%2Fgymcoach%2Brepo%3Adodopayments%2Fbillingsdk%2Brepo%3Adxlander%2Fdxlander%2Brepo%3AGrenish%2Foss-wiki&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a> across MCP tooling, fitness, billing infrastructure and docs, plus a component library I maintain in the open.
 
 <table>
 <tr>
