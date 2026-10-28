@@ -340,19 +340,6 @@ Localization UI components for React. Language switchers, locale pickers and RTL
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Featured in curated lists
-
-Babelize Elements is listed in community-curated directories:
-
-<a href="https://github.com/birobirobiro/awesome-shadcn-ui"><img src="https://img.shields.io/github/stars/birobirobiro/awesome-shadcn-ui?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white&label=awesome-shadcn-ui" /></a> <a href="https://github.com/oh-jon-paul/awesome-i18n"><img src="https://img.shields.io/github/stars/oh-jon-paul/awesome-i18n?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white&label=awesome-i18n" /></a>
-
-**Listed** under Registries in awesome-shadcn-ui and in awesome-i18n.
-
-</td>
-</tr>
 </table>
 
 ---
