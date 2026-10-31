@@ -214,13 +214,13 @@ AI localization platform. Scans your codebase for hardcoded strings, translates 
 <tr>
 <td width="50%" valign="top">
 
-### [Smart Farming AI Agent](https://github.com/sapatmohit/smart-farming-ai-agent)
+### [ShipDaily](https://shipdaily.ai)
 
-RAG advisory agent that turns live agronomic data into farming guidance a grower can act on.
+Open-source launchpad where products grow in public. Launch, get real feedback, ship updates and relaunch, alongside a community of founders and indie hackers.
 
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&labelColor=1A1B27&logo=Rust&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=1A1B27&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/IBM%20Granite-054ADA?style=flat-square&labelColor=1A1B27" />
+<a href="https://github.com/ship-daily/shipdaily-web"><img src="https://img.shields.io/github/stars/ship-daily/shipdaily-web?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=1A1B27&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=1A1B27&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&labelColor=1A1B27&logo=Tailwind-CSS&logoColor=white" />
 
-<a href="https://github.com/sapatmohit/smart-farming-ai-agent">Code</a>
+<a href="https://shipdaily.ai">Live</a> · <a href="https://github.com/ship-daily/shipdaily-web">Code</a>
 
 </td>
 <td width="50%" valign="top">
@@ -336,6 +336,21 @@ Localization UI components for React. Language switchers, locale pickers and RTL
 
 **Maintainer.** I built the library, the docs site and the release flow, and I review and merge what comes in from contributors.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ShipDaily](https://github.com/ship-daily/shipdaily-web)
+
+Open-source launchpad where products grow in public. AGPL-3.0 licensed.
+
+<a href="https://github.com/ship-daily/shipdaily-web"><img src="https://img.shields.io/github/stars/ship-daily/shipdaily-web?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/ship-daily/shipdaily-web/forks"><img src="https://img.shields.io/github/forks/ship-daily/shipdaily-web?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a>
+
+**Maintainer.** I started the project and build the site and the app in the open, and I review and merge what comes in from contributors.
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
