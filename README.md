@@ -218,9 +218,9 @@ AI localization platform. Scans your codebase for hardcoded strings, translates 
 
 Open-source launchpad where products grow in public. Launch, get real feedback, ship updates and relaunch, alongside a community of founders and indie hackers.
 
-<a href="https://github.com/ship-daily/shipdaily-web"><img src="https://img.shields.io/github/stars/ship-daily/shipdaily-web?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=1A1B27&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=1A1B27&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&labelColor=1A1B27&logo=Tailwind-CSS&logoColor=white" />
+<a href="https://github.com/ship-daily/shipdaily"><img src="https://img.shields.io/github/stars/ship-daily/shipdaily?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=1A1B27&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=1A1B27&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&labelColor=1A1B27&logo=Tailwind-CSS&logoColor=white" />
 
-<a href="https://shipdaily.ai">Live</a> · <a href="https://github.com/ship-daily/shipdaily-web">Code</a>
+<a href="https://shipdaily.ai">Live</a> · <a href="https://github.com/ship-daily/shipdaily">Code</a>
 
 </td>
 <td width="50%" valign="top">
@@ -341,16 +341,25 @@ Localization UI components for React. Language switchers, locale pickers and RTL
 <tr>
 <td width="50%" valign="top">
 
-### [ShipDaily](https://github.com/ship-daily/shipdaily-web)
+### [ShipDaily](https://github.com/ship-daily/shipdaily/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit)
 
 Open-source launchpad where products grow in public. AGPL-3.0 licensed.
 
-<a href="https://github.com/ship-daily/shipdaily-web"><img src="https://img.shields.io/github/stars/ship-daily/shipdaily-web?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/ship-daily/shipdaily-web/forks"><img src="https://img.shields.io/github/forks/ship-daily/shipdaily-web?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a>
+<a href="https://github.com/ship-daily/shipdaily"><img src="https://img.shields.io/github/stars/ship-daily/shipdaily?style=flat-square&labelColor=1A1B27&color=E0AF68&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/ship-daily/shipdaily/forks"><img src="https://img.shields.io/github/forks/ship-daily/shipdaily?style=flat-square&labelColor=1A1B27&color=7AA2F7&logo=GitHub&logoColor=white" /></a> <a href="https://github.com/ship-daily/shipdaily/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2Brepo%3Aship-daily%2Fshipdaily&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
 
 **Maintainer.** I started the project and build the site and the app in the open, and I review and merge what comes in from contributors.
 
 </td>
 <td width="50%" valign="top">
+
+### [More contributions](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit+-user%3Asapatmohit)
+
+Every pull request of mine merged into a public repo outside my own account, including the ones above.
+
+<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit+-user%3Asapatmohit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Asapatmohit%2Btype%3Apr%2Bis%3Amerged%2B-user%3Asapatmohit&query=%24.total_count&label=PRs%20merged&color=9ECE6A&labelColor=1A1B27&style=flat-square&cacheSeconds=21600" /></a>
+
+<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asapatmohit+-user%3Asapatmohit">Browse</a>
+
 </td>
 </tr>
 </table>
